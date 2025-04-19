@@ -9,7 +9,7 @@
 
 [![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=CyberOneFR&layout=compact&theme=radical&locale=fr)](https://github.com/anuraghazra/github-readme-stats)
 
-### 📈 Activité
+### 📈 Activité du mois
 
 [![Graphique d'activité](https://github-readme-activity-graph.vercel.app/graph?username=CyberOneFR&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
