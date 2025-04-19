@@ -35,9 +35,6 @@
 ## 💻 Tech utilisé
 
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
-![Assembleur](https://img.shields.io/badge/-Assembleur-6E4C13?style=flat-square&logo=assemblyscript&logoColor=white)
-![Reverse Engineering](https://img.shields.io/badge/-Reverse%20Engineering-000000?style=flat-square&logo=hackaday&logoColor=white)
-![Ghidra](https://img.shields.io/badge/-Ghidra-478CBF?style=flat-square&logo=ghidra&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
 
