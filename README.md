@@ -25,12 +25,6 @@
 ### 🏆 Trophées GitHub
 
 [![Trophées](https://github-profile-trophy.vercel.app/?username=CyberOneFR&theme=onedark&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
-<!-- INFO-AUTOMATIQUE-FIN -->
-
-## 🚀 Projets récents
-<!-- PROJETS-RECENTS-DEBUT -->
-<!-- Cette section sera mise à jour automatiquement par GitHub Actions -->
-<!-- PROJETS-RECENTS-FIN -->
 
 ## 💻 Tech utilisé
 
@@ -41,3 +35,5 @@
 ## 📫 Contact
 
 - ✉️ Email: erwoan.thebault@zeirea.com
+
+<iframe width="640" height="360" frameborder="0" src="https://www.shadertoy.com/embed/tsXBzS?gui=true&t=10&paused=true&muted=false" allowfullscreen></iframe>
