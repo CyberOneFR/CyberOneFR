@@ -36,4 +36,4 @@
 
 - ✉️ Email: erwoan.thebault@zeirea.com
 
-[![test](https://www.shadertoy.com/embed/tsXBzS?gui=true&t=10&paused=true&muted=false)](https://github.com/CyberOneFR)
+[![test](https://www.shadertoy.com/view/tsXBzS)](https://github.com/CyberOneFR)
