@@ -31,7 +31,7 @@ jobs:
           # Authentification
           token = os.environ['GH_TOKEN']
           g = github.Github(token)
-          user = g.get_user('ethebaul')
+          user = g.get_user('CyberOneFR')
           
           # Récupérer les projets récents (derniers 3 mois)
           recent_repos = []
