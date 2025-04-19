@@ -5,13 +5,13 @@
 <!-- INFO-AUTOMATIQUE-DEBUT -->
 ## 📊 Stats Github
 
-[![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=ethebaul&show_icons=true&theme=radical&locale=fr)](https://github.com/anuraghazra/github-readme-stats)
+[![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=CyberOneFR&show_icons=true&theme=radical&locale=fr)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=ethebaul&layout=compact&theme=radical&locale=fr)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=CyberOneFR&layout=compact&theme=radical&locale=fr)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 📈 Activité
 
-[![Graphique d'activité](https://github-readme-activity-graph.vercel.app/graph?username=ethebaul&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Graphique d'activité](https://github-readme-activity-graph.vercel.app/graph?username=CyberOneFR&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### ⏱ Stats de la semaine
 
@@ -20,11 +20,11 @@
 
 ### 🕰 Mes Horaires
 
-[![wakatime](https://wakatime.com/badge/user/ethebaul.svg)](https://wakatime.com/@ethebaul)
+[![wakatime](https://wakatime.com/badge/user/CyberOneFR.svg)](https://wakatime.com/@CyberOneFR)
 
 ### 🏆 Trophées GitHub
 
-[![Trophées](https://github-profile-trophy.vercel.app/?username=ethebaul&theme=onedark&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophées](https://github-profile-trophy.vercel.app/?username=CyberOneFR&theme=onedark&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 <!-- INFO-AUTOMATIQUE-FIN -->
 
 ## 🚀 Projets récents
