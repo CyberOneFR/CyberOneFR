@@ -1,8 +1,5 @@
 # 👋 Yo
 
-
-
-<!-- INFO-AUTOMATIQUE-DEBUT -->
 ## 📊 Stats Github
 
 [![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=CyberOneFR&show_icons=true&theme=radical&locale=fr)](https://github.com/anuraghazra/github-readme-stats)
