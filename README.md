@@ -1,15 +1,5 @@
 # 👋 Yo
 
-## 📊 Stats Github
-
-[![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=CyberOneFR&show_icons=true&theme=radical&locale=fr)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=CyberOneFR&layout=compact&theme=radical&locale=fr)](https://github.com/anuraghazra/github-readme-stats)
-
-### 📈 Activité
-
-[![Graphique d'activité](https://github-readme-activity-graph.vercel.app/graph?username=CyberOneFR&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2030%20mins-blue)
 
