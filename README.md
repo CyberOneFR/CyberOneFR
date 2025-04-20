@@ -83,16 +83,6 @@ Python                   1 repo              ██████░░░░░�
  Last Updated on 20/04/2025 12:41:15 UTC
 <!--END_SECTION:waka-->
 
-### 🏆 Trophées GitHub
-
-[![Trophées](https://github-profile-trophy.vercel.app/?username=CyberOneFR&theme=onedark&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
-
-## 💻 Tech utilisé
-
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
-
 ## 📫 Contact
 
 - ✉️ Email: erwoan.thebault@zeirea.com
