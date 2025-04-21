@@ -1,21 +1,21 @@
 # 👋 Yo
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%2032%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-49%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Vues%20du%20profil-120-blue)
+![Profile Views](http://img.shields.io/badge/Vues%20du%20profil-150-blue)
 
 ![Lines of code](https://img.shields.io/badge/Depuis%20Hello%20World%2C%20j%27ai%20%C3%A9crit-739.6%20thousand%20Lignes%20de%20code-blue)
 
 **🐱 Mes données GitHub** 
 
-> 📦 29.9 kB Utilisés sur le stockage de GitHub 
+> 📦 30.0 kB Utilisés sur le stockage de GitHub 
  > 
-> 🏆 36 Contributions en 2025
+> 🏆 37 Contributions en 2025
  > 
 > 🚫 N'a pas choisi d'embaucher
  > 
-> 📜 9 dépots publiques 
+> 📜 10 dépots publiques 
  > 
 > 🔑 4 dépots privés 
  > 
@@ -70,7 +70,7 @@ Python                   1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 20/04/2025 13:51:25 UTC
+ Last Updated on 21/04/2025 00:57:54 UTC
 <!--END_SECTION:waka-->
 
 ## 📫 Contact
