@@ -1,7 +1,7 @@
 # 👋 Yo
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-14%20hrs%2052%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-12%20hrs%2021%20mins-blue)
 
 **Je suis un 🦉 de nuit** 
 
@@ -60,7 +60,7 @@ Python                   1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 22/04/2025 21:45:47 UTC
+ Last Updated on 23/04/2025 00:55:21 UTC
 <!--END_SECTION:waka-->
 
 ## 📫 Contact
