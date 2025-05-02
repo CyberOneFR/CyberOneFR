@@ -30,20 +30,16 @@ Dimanche                 14 commits          ███░░░░░░░░�
 🕑︎ Fuseau horaire: Europe/Paris
 
 💬 Langages: 
-C                        5 hrs 44 mins       ███████████████░░░░░░░░░░   58.24 % 
-Makefile                 4 hrs 2 mins        ██████████░░░░░░░░░░░░░░░   40.99 % 
-D                        4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
-Git                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+Aucune activité enregistrée cette semaine
 
 🔥 Éditeurs de code: 
-VS Code                  9 hrs 50 mins       █████████████████████████   100.00 % 
+Aucune activité enregistrée cette semaine
 
 🐱‍💻 Projets: 
-LibC                     9 hrs 49 mins       █████████████████████████   99.86 % 
-42-push_swap             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+Aucune activité enregistrée cette semaine
 
 💻 Système d'exploitation: 
-Linux                    9 hrs 50 mins       █████████████████████████   100.00 % 
+Aucune activité enregistrée cette semaine
 ```
 
 **Je code principalement en C** 
@@ -57,7 +53,7 @@ TypeScript               1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 01/05/2025 01:01:29 UTC
+ Last Updated on 02/05/2025 00:56:10 UTC
 <!--END_SECTION:waka-->
 
 ## 📫 Contact
