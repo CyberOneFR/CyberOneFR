@@ -1,7 +1,7 @@
 # 👋 Yo
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-57%20hrs%2059%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-46%20hrs%201%20min-blue)
 
 **Je suis un 🐤 du matin** 
 
@@ -61,7 +61,7 @@ TypeScript               1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 25/05/2025 19:58:44 UTC
+ Last Updated on 26/05/2025 00:59:22 UTC
 <!--END_SECTION:waka-->
 
 ## 📫 Contact
