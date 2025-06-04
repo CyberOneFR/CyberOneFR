@@ -30,20 +30,16 @@ Dimanche                 38 commits          ████░░░░░░░�
 🕑︎ Fuseau horaire: Europe/Paris
 
 💬 Langages: 
-JavaScript               58 mins             ██████████████████░░░░░░░   72.44 % 
-JSON                     21 mins             ███████░░░░░░░░░░░░░░░░░░   27.10 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+Aucune activité enregistrée cette semaine
 
 🔥 Éditeurs de code: 
-VS Code                  1 hr 20 mins        █████████████████████████   100.00 % 
+Aucune activité enregistrée cette semaine
 
 🐱‍💻 Projets: 
-Ecole-Directe-Plus-Unbloc52 mins             ████████████████░░░░░░░░░   64.70 % 
-FTPlaceBot               28 mins             █████████░░░░░░░░░░░░░░░░   35.30 % 
+Aucune activité enregistrée cette semaine
 
 💻 Système d'exploitation: 
-Linux                    1 hr 20 mins        █████████████████████████   100.00 % 
+Aucune activité enregistrée cette semaine
 ```
 
 **Je code principalement en C** 
@@ -57,7 +53,7 @@ TypeScript               1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 03/06/2025 00:59:01 UTC
+ Last Updated on 04/06/2025 00:58:52 UTC
 <!--END_SECTION:waka-->
 
 ## 📫 Contact
