@@ -1,7 +1,7 @@
 # 👋 Yo
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-203%20hrs%2059%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-202%20hrs%2054%20mins-blue)
 
 **Je suis un 🦉 de nuit** 
 
@@ -59,7 +59,7 @@ Makefile                 1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 31/07/2025 20:52:16 UTC
+ Last Updated on 01/08/2025 01:10:56 UTC
 <!--END_SECTION:waka-->
 
 ## 📫 Contact
