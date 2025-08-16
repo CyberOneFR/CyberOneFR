@@ -30,19 +30,16 @@ Dimanche                 46 commits          ██░░░░░░░░░�
 🕑︎ Fuseau horaire: Europe/Paris
 
 💬 Langages: 
-C                        29 mins             █████████████████████████   99.54 % 
-Makefile                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+Aucune activité enregistrée cette semaine
 
 🔥 Éditeurs de code: 
-VS Code                  29 mins             █████████████████████████   100.00 % 
+Aucune activité enregistrée cette semaine
 
 🐱‍💻 Projets: 
-cafabre                  20 mins             ██████████████████░░░░░░░   70.50 % 
-intra-uuid-2f0e0439-6164-8 mins              ███████░░░░░░░░░░░░░░░░░░   29.50 % 
+Aucune activité enregistrée cette semaine
 
 💻 Système d'exploitation: 
-Linux                    29 mins             █████████████████████████   100.00 % 
+Aucune activité enregistrée cette semaine
 ```
 
 **Je code principalement en C** 
@@ -56,7 +53,7 @@ Rust                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 15/08/2025 01:00:25 UTC
+ Last Updated on 16/08/2025 00:57:21 UTC
 <!--END_SECTION:waka-->
 
 ## 📫 Contact
